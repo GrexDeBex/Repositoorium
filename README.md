@@ -1,0 +1,2 @@
+# Repositoorium
+Seminari harjutus
